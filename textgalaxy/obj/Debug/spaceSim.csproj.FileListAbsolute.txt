@@ -1,0 +1,7 @@
+c:\users\user\documents\visual studio 2015\Projects\spaceSim\spaceSim\bin\Debug\spaceSim.exe.config
+c:\users\user\documents\visual studio 2015\Projects\spaceSim\spaceSim\bin\Debug\spaceSim.exe
+c:\users\user\documents\visual studio 2015\Projects\spaceSim\spaceSim\bin\Debug\spaceSim.pdb
+c:\users\user\documents\visual studio 2015\Projects\spaceSim\spaceSim\obj\Debug\spaceSim.exe
+c:\users\user\documents\visual studio 2015\Projects\spaceSim\spaceSim\obj\Debug\spaceSim.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\spaceSim\spaceSim\obj\Debug\spaceSim.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\spaceSim\spaceSim\obj\Debug\spaceSim.csproj.CoreCompileInputs.cache
