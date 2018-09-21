@@ -1,2 +1,2 @@
-# textgalaxy
-c# console based space trading game
+# Text Galaxy
+C# text based space trading game
